@@ -11,7 +11,7 @@ from scikit-learn and the Sentiment140 dataset
 
 ## Mini-Project 3
 
-Implemented a multilayer perceptron from scratch and analyzed its performance on image classification using the Fashion-MNIST dataset with varying activation function, regularization and normalization methods
+Implemented a multilayer perceptron from scratch and analyzed its performance on image classification using the Fashion-MNIST dataset with varying activation function, regularization and normalization methods; built convolutional neural network with PyTorch and tested how different hyperparameter values affect its performance on the Fashion-MNIST dataset
 
 ## Mini-Project 4
 
